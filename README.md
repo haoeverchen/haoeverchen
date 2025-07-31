@@ -3,7 +3,6 @@
 #### I'm also a ...
 #### 🏫 CS Grad student @ Virginia Tech
 #### 👨🏻‍💻 Software Engineer
-#### 🏂 Explorer
 
 <!---
 haoeverchen/haoeverchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
